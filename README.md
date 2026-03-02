@@ -13,8 +13,8 @@ A data analytics project using SQL and Power BI to analyze pizza business perfor
 
 ## 📄 Project Documentation
 For a detailed look at the full report and the underlying SQL logic, you can view the files directly:
-* [📂 View Full Dashboard (PDF Version)](sales(!)%20analysis.pdf)
-* [📝 View SQL Documentation (Word Doc)](Pizza%20Sales%20SQL%20Queries.docx)
+* [📂 View Full Dashboard (PDF Version)](sales(!)%20analysis%20.pdf)
+* [📝 View SQL Documentation (Word Doc)](Pizza%20Sales%20SQL%20Queries%20.docx)
 
 ## 📌 Project Overview
 This project provides a 360-degree view of a pizza store's sales performance. I used **SQL** to extract and calculate key business metrics and **Power BI** to visualize these insights for data-driven decision-making.
